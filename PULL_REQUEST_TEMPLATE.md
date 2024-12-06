@@ -4,12 +4,6 @@ Please include a summary of the changes and the related issue. Please also inclu
 
 Fixes (issue, e.g. ABC-1)
 
-## Type of change
-<!-- Keep any that apply -->
-- Bug fix (non-breaking change which fixes an issue)
-- New feature (non-breaking change which adds functionality)
-- Breaking change (fix or feature that would cause existing functionality to not work as expected)
-
 ### If this change requires new or updated documentation, provide a link below:
 
 
@@ -28,5 +22,6 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 
 # ✅ Checklist:
 
+- [ ] I have added a label describing the type of change (such as https://github.com/vault-innovation/.github/labels/bug or https://github.com/vault-innovation/.github/labels/enhancement)
 - [ ] I have performed a self-review of my code
 - [ ] I have added tests that prove my fix is effective or that my feature works
